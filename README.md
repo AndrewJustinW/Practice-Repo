@@ -1,6 +1,8 @@
 # Practice Repo
 
-Repo to hold practice/learning projects and other code.
+Repo to hold practice/learning projects and other code. \
+Combined the projects into one React Project so that they can share the same URL.
+
 
 ## Projects
 
