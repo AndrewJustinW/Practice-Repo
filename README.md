@@ -17,5 +17,5 @@ Recommended: Open links by right clicking and opening with new tab.
 ### BookList App 
 ### <img src="./app-screenshots/booklist-screenshot.png" alt="Waves" width="250"/>
 **Live Site:** <a href="https://andrewjustinw.github.io/practice-repo/#/booklist" target="_blank">Booklist App</a> \
-**Reason:** Created to practice using React's Context API. 
+**Reason:** Created to practice using React's Context API and the browsers local storage. 
 
