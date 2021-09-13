@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: 0;
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(250, 252, 255)
+}
+
+body {
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(95, 95, 187);
+    user-select: none;
+    width: 100%
+}
+
+h3,
+h4 {
+    font-weight: 400;
+    color: rgb(250, 252, 255)
+}
+
+.App {
+    transition: all 0.5s ease;
+}
+
+.library-active {
+    margin-left: 20%
+}
+
+
+
+
+@import './song';
+@import './player';
+@import './library';
+@import './nav';
+@import './trackList';

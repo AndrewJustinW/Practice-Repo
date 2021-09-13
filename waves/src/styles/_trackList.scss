@@ -1,0 +1,23 @@
+.track-list {
+    right: 0;
+    top: 35%;
+    position: fixed;
+    width: 20%;
+    border: solid black 3px;
+    overflow: scroll;
+    overflow-x: hidden;
+
+    .track-list-song {
+        align-items: center;
+        display: flex;
+        background: grey;
+        height: 22%;
+        width: 100%;
+        border-bottom: solid black 1px;
+    }
+
+    img {
+        width: 20%;
+        margin: 2%;
+    }
+}
