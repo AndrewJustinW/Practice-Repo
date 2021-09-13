@@ -5,6 +5,7 @@ Combined the projects into one React Project so that they can share the same URL
 
 
 ## Projects
+Recommended: Open links by right clicking and opening with new tab. 
 
 ### Waves Music App 
 ### <img src="./app-screenshots/Waves-Screenshot.png" alt="Waves" width="300"/>
