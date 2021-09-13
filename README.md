@@ -4,8 +4,19 @@ Repo to hold practice/learning projects and other code.
 
 ## Projects
 
-### Waves Music App
+### Waves Music App 
 
-### <img src="./app-screenshots/Waves-Screenshot.png" alt="Waves" width="325"/>
-This project was mainly created to become familiarized with react. \
 **Live Site:** [Waves Music App](https://andrewjustinw.github.io/practice-repo/#/waves)
+
+### <img src="./app-screenshots/Waves-Screenshot.png" alt="Waves" width="300"/>
+**Reason:** Created to become familiarized with react. 
+
+---
+
+### BookList App 
+
+**Live Site:** [BookList App](https://andrewjustinw.github.io/practice-repo/#/booklist)
+
+### <img src="./app-screenshots/booklist-screenshot.png" alt="Waves" width="250"/>
+**Reason:** Created to practice using React's Context API. 
+
