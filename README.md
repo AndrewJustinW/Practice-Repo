@@ -6,5 +6,5 @@ Repo to hold practice/learning projects and other code.
 
 ### Waves Music App
 
-### <img src="./app-screenshots/Waves-Screenshot.png" alt="Waves" width="3000"/>
+### <img src="./app-screenshots/Waves-Screenshot.png" alt="Waves" width="325"/>
 Live Site: [Waves Music App](https://andrewjustinw.github.io/practice-repo/#/waves)
