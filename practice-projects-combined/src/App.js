@@ -6,7 +6,7 @@ import { useEffect } from "react";
 
 function App() {
 
-
+  // Controls dynamically changing CSS depending on URL
   useEffect(() => {
     var head = document.head;
     var link = document.getElementById('style-changer')
