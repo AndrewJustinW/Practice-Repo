@@ -3,18 +3,7 @@
 // Example
 // solution("camelCasing")  ==  "camel Casing"
 
-// complete the function
-// function solution(string) {
-// 	let array = string.split();
-// 	for (i = 0; i < array.length; i++) {
-// 		if (array[i] == array[i].toUpperCase()) {
-// 			newString = array[i];
-// 		}
-// 	}
-// 	console.log(array);
-// }
 
-// solution("kingAjTheGreat");
 
 function solution(string) {
 	let array = [];
