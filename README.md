@@ -10,7 +10,7 @@ Recommended: Open links by right clicking and opening with new tab.
 ### Waves Music App 
 ### <img src="./app-screenshots/Waves-Screenshot.png" alt="Waves" width="300"/>
 **Live Site:** <a href="https://andrewjustinw.github.io/practice-repo/#/waves" target="_blank">Waves Music App</a> \
-**Reason:** Created to become familiarized with react. 
+**Reason:** Created to become more familiarized with react. 
 
 ---
 
